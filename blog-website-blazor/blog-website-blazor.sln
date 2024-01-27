@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "blog-website-blazor", "blog-website-blazor\blog-website-blazor.csproj", "{24382BFC-B54E-4544-87E4-88045C26C32E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "blog-website-blazor.Client", "blog-website-blazor.Client\blog-website-blazor.Client.csproj", "{EEE5C42B-C039-4487-9EAA-862D39E247F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24382BFC-B54E-4544-87E4-88045C26C32E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24382BFC-B54E-4544-87E4-88045C26C32E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24382BFC-B54E-4544-87E4-88045C26C32E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24382BFC-B54E-4544-87E4-88045C26C32E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEE5C42B-C039-4487-9EAA-862D39E247F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEE5C42B-C039-4487-9EAA-862D39E247F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEE5C42B-C039-4487-9EAA-862D39E247F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEE5C42B-C039-4487-9EAA-862D39E247F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30D8FE0B-A3C1-4BC4-984E-472237A51695}
+	EndGlobalSection
+EndGlobal
